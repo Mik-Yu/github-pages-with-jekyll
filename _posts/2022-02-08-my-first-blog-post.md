@@ -1,5 +1,5 @@
 ---
 title: "My-Blog"
-date: 2022-02-08
+date: 2022-2-8
 ---
 Hello, My Name Is Mike.
